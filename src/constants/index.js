@@ -132,7 +132,7 @@ const experiences = [
     points: ["The laboratory registration website of National Bureau of Agricultural Commodity and Food Standards was created using React."],
   },
   {
-    title: "React Native Developer",
+    title: "Next.js Developer",
     company_name: "TCRB",
     icon: tcrb,
     iconBg: "#E6DEDD",
@@ -140,7 +140,7 @@ const experiences = [
     points: ["Thai Credit Online Banking information management website was created using Next.js"],
   },
   {
-    title: "Web Developer",
+    title: "Next.js Developer",
     company_name: "Hino",
     icon: hino,
     iconBg: "#E6DEDD",
@@ -148,7 +148,7 @@ const experiences = [
     points: ["This website, I'm responsible for creating a driving report on the website that can be exported as a pdf."],
   },
   {
-    title: "Full stack Developer",
+    title: "Gatsby.js Developer",
     company_name: "Cpac UMO",
     icon: umo,
     iconBg: "#E6DEDD",
