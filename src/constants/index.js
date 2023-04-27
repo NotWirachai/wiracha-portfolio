@@ -69,7 +69,7 @@ const services = [
     path: "https://www.instagram.com/cs_crystalstudio/",
   },
   {
-    title: "Content Creator",
+    title: "Cast Game",
     icon: creator,
     path: "https://www.youtube.com/@NottyStory/",
   },
