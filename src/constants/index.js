@@ -31,6 +31,9 @@ import {
   tripguide,
   threejs,
   github,
+  cplus,
+  csharp,
+  netcore,
 } from "../assets";
 
 export const navLinks = [
@@ -120,6 +123,14 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
+  {
+    name: "csharp",
+    icon: csharp,
+  },
+  {
+    name: "cplus",
+    icon: cplus,
+  },
 ];
 
 const experiences = [
@@ -144,7 +155,7 @@ const experiences = [
     company_name: "Hino",
     icon: hino,
     iconBg: "#E6DEDD",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2022 - Mar 2022",
     points: ["This website, I'm responsible for creating a driving report on the website that can be exported as a pdf."],
   },
   {
@@ -152,8 +163,16 @@ const experiences = [
     company_name: "Cpac UMO",
     icon: umo,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Mar 2022 - Otc 2022",
     points: ["A vehicle management website was created using Gatsby."],
+  },
+  {
+    title: "C# .net core 7 Developer",
+    company_name: "Pirate of the Horizon",
+    icon: netcore,
+    iconBg: "#E6DEDD",
+    date: "Otc 2022 - Present",
+    points: ["Pirate of the Horizon is an MMORTS(Massive Multiplayer Online Real-Time Strategy) I have been commissioned to do the backend with .net core 7. "],
   },
 ];
 

@@ -26,6 +26,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import csharp from "./tech/csharp.svg";
+import cplus from "./tech/cplus.svg";
+import netcore from "./tech/netcore.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -59,6 +62,8 @@ export {
   nodejs,
   reactjs,
   redux,
+  cplus,
+  csharp,
   tailwind,
   typescript,
   threejs,
@@ -79,4 +84,5 @@ export {
   phone,
   home,
   gmail,
+  netcore,
 };
