@@ -64,7 +64,7 @@ const services = [
   {
     title: "Game Developer",
     icon: mobile,
-    path: "https://play.google.com/store/apps/developer?id=Crystal+Game",
+    path: "https://crystal-studio.itch.io/zombie-wave",
   },
   {
     title: "3D Model",
