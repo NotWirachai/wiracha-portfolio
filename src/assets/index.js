@@ -25,7 +25,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threeJs.png";
 import csharp from "./tech/csharp.svg";
 import cplus from "./tech/cplus.svg";
 import netcore from "./tech/netcore.png";
