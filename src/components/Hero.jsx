@@ -19,7 +19,7 @@ const Hero = () => {
             And I'm a{" "}
             <TypeAnimation
               sequence={[
-                "FullStack Developer",
+                "Full Stack Developer",
                 5000,
                 () => {
                   console.log("Sequence completed");
