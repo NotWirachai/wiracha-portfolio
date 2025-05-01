@@ -9,6 +9,7 @@ import close from "./close.svg";
 import webcpac from "./webcpac.png";
 import webtcrb from "./webtcrb.png";
 import webhino from "./webhino.png";
+import webmcnito from "./webmcnito.png";
 import phone from "./phone.png";
 import home from "./home.png";
 import gmail from "./gmail.png";
@@ -89,4 +90,5 @@ export {
   netcore,
   sentiment,
   mcneto,
+  webmcnito,
 };

@@ -36,6 +36,7 @@ import {
   netcore,
   mcneto,
   sentiment,
+  webmcnito,
 } from "../assets";
 
 export const navLinks = [
@@ -212,6 +213,12 @@ const projects = [
     points: "HINO",
     image: webhino,
     icon: hino,
+  },
+  {
+    name: "webmcneto",
+    points: "Mcneto",
+    image: webmcnito,
+    icon: mcneto,
   },
 ];
 

@@ -28,7 +28,7 @@ const ProjectCard = ({ index, name, image, icon, points }) => {
           <div className="flex flex-col gap-2 bg-fourthary px-4 pb-4 rounded-lg">
             <h1 className="text-lg text-white mt-2 pr-48">{points}</h1>
             <div className="flex flex-col gap-2">
-              <img src={image} alt={name} className="w-full h-full object-cover rounded-2xl" />
+              <img src={image} alt={name} className="w-[736px] h-full object-cover rounded-2xl" />
             </div>
             <div className="flex flex-row gap-2">
               <button onClick={() => setOpen(!open)} className="flex-1 py-2 px-4 bg-gray-500 hover:bg-gray-600 text-white font-bold text-lg rounded-full">
