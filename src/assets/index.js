@@ -29,6 +29,8 @@ import threejs from "./tech/threeJs.png";
 import csharp from "./tech/csharp.svg";
 import cplus from "./tech/cplus.svg";
 import netcore from "./tech/netcore.png";
+import sentiment from "./tech/icon-sentiment.svg";
+import mcneto from "./tech/icon-mcneto.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -85,4 +87,6 @@ export {
   home,
   gmail,
   netcore,
+  sentiment,
+  mcneto,
 };

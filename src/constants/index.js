@@ -34,6 +34,8 @@ import {
   cplus,
   csharp,
   netcore,
+  mcneto,
+  sentiment,
 } from "../assets";
 
 export const navLinks = [
@@ -171,8 +173,24 @@ const experiences = [
     company_name: "Pirate of the Horizon",
     icon: netcore,
     iconBg: "#E6DEDD",
-    date: "Otc 2022 - Present",
+    date: "Otc 2022 - July 2024",
     points: ["Pirate of the Horizon is an MMORTS(Massive Multiplayer Online Real-Time Strategy) I have been commissioned to do the backend with .net core 7. "],
+  },
+  {
+    title: "Next.js, React.js, Node.js Developer",
+    company_name: "Mcneto",
+    icon: mcneto,
+    iconBg: "#E6DEDD",
+    date: "Aug 2023 - Present",
+    points: ["Is a tool that helps online entrepreneurs to easily create and manage sales pages or single-page websites to increase credibility and automatically close sales."],
+  },
+  {
+    title: "React.js Developer",
+    company_name: "Datista",
+    icon: sentiment,
+    iconBg: "#E6DEDD",
+    date: "Aug 2023 - Present",
+    points: ["Social Dashboard - monitor and analyze data from social media platforms."],
   },
 ];
 
